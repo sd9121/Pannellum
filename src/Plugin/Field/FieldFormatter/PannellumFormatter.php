@@ -141,8 +141,8 @@ class Pannellumformatter extends ImageFormatterBase
   {
     $types = [
       'equirectangular' => $this->t('Equirectangular'),
-      'cubemap' => $this->t('Cube Map'),
-      'multires' => $this->t('Multiresolution'),
+      // 'cubemap' => $this->t('Cube Map'),
+      // 'multires' => $this->t('Multiresolution'),
     ];
 
     return $types;

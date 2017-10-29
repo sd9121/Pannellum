@@ -2,7 +2,7 @@ pannellum.javascript:
   version: VERSION
   css:
     base:
-      libraries/node_modules/pannellum/src/css/pannellum.css: {}
+      node_modules/pannellum/src/css/pannellum.css: {}
       css/pannellumEffect.css: {}
   js:
     node_modules/pannellum/src/js/pannellum.js: {}
