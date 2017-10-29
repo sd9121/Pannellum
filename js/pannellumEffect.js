@@ -12,8 +12,6 @@
       var effectType = drupalSettings.pannellum[index].type;
       var imgSrc = drupalSettings.pannellum[index].src;
       var autoload = drupalSettings.pannellum[index].autoload == 1 ? true : false;
-      // if($('div').hasClass('pnlm-fullscreen-toggle-button-active'))
-      //   alert('yes');
 
       switch (effectType) {
 
