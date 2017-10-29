@@ -5,9 +5,9 @@ pannellum.javascript:
       libraries/node_modules/pannellum/src/css/pannellum.css: {}
       css/pannellumEffect.css: {}
   js:
-    libraries/node_modules/pannellum/src/js/pannellum.js: {}
-    libraries/node_modules/pannellum/src/js/libpannellum.js: {}
-    libraries/node_modules/pannellum/src/js/RequestAnimationFrame.js: {}
+    node_modules/pannellum/src/js/pannellum.js: {}
+    node_modules/pannellum/src/js/libpannellum.js: {}
+    node_modules/pannellum/src/js/RequestAnimationFrame.js: {}
     js/pannellumEffect.js: {}
   dependencies:
     - core/jquery
