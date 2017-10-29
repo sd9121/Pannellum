@@ -1,0 +1,7 @@
+type: module
+name: Pannellum
+description: 'Provides an field formatter to panorama effect on an image.'
+package: Image
+core: 8.x
+dependencies:
+  - image

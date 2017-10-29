@@ -1,0 +1,16 @@
+<?php
+
+/**
+ * @file
+ * Provides uninstall functions for the Pannellum module.
+ */
+
+/**
+ * Implements hook_uninstall().
+ */
+
+// function imagezoom_uninstall() {
+//   // delete variables created by settings form
+//   \Drupal::config('pannellum.settings')->clear('pannellum_type')->save();
+//   \Drupal::config('pannellum.settings')->clear('pannellum_display_style')->save();
+// }
