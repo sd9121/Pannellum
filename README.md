@@ -1,6 +1,6 @@
 ## Overview
 
-Pannellum is built using WebGL and JavaScript, with a sprinkling of HTML5 and CSS3.
+[Pannellum](https://pannellum.org/documentation/overview/) is built using WebGL and JavaScript, with a sprinkling of HTML5 and CSS3.
 It can run standalone or can be embedded using either an `<iframe>` or a JavaScript API. 
 The standalone method, which is used for `<iframe>` embedding, is the easiest and simplest to use, but the JavaScript API is more powerful and provides tighter integration. 
 Internally, the standalone viewer parses URL parameters to build a JSON-based configuration and then instantiates the viewer using the JavaScript API. 
